@@ -2,7 +2,20 @@
 
 ## Usage
 
+```
+> sbcl load.lisp
+> ./catupper-score
+```
+
 ## Installation
+
+Place asdf's loadable directory.
+
+## Require
+
+* libnotify
+* sbcl
+* quicklisp
 
 ## Author
 
